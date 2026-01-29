@@ -101,6 +101,7 @@ type = git_repo
 [update_manager BunnyACE]
 type = git_repo
 path = /home/pi/BunnyACE
+primary_branch = development
 origin = https://github.com/BlackFrogKok/BunnyACE
 managed_services = klipper
 
