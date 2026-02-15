@@ -105,3 +105,10 @@ primary_branch = development
 origin = https://github.com/BlackFrogKok/BunnyACE
 managed_services = klipper
 
+[update_manager ValgACE]
+type = git_repo
+path = ~/ValgACE
+primary_branch = main
+origin = https://github.com/agrloki/ValgACE.git
+managed_services = klipper
+
